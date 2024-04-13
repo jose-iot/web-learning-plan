@@ -2,5 +2,7 @@ Tag HTML
 Paragrap
 form
 link
+marquee
+br
+hr
 Table
-
